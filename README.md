@@ -1,16 +1,16 @@
-## Olá, eu sou Luis Henrique 😉
-- 💻 Desenvolvedor Java Web 
-- 💻 Sempre estudo JAVA & PHP PYTHON. 
-- 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
-- 📚 Cursando - Inglês: Curso Completo do Zero à Fluência
-- 💻 Cursando - Java - Programação Orientada a Objetos +Projetos 2023 
-- 💻 Cursando - REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker
-- 😄 Tenho 25 anos 
+## Olá, eu sou Luiz Paulo 😉
+- 💻 Cursando JavaScript
+- 💻 Cursando Jquery
+- 💻 Cursando Bootstrap
+- 💻 Cursando React
+- 💻 Cursando FireBase
+- 💻 Cursando NodeJS
+- 💻 Cursando MongoDB
 
 
 <div align="center">
-  <a href="https://github.com/LuisHenriqueSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSantos&show_icons=true&theme=radical"/>
+  <a href="https://github.com/LuizPaulo8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizPaulo8&show_icons=true&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -25,10 +25,9 @@
   ##
   
 <div> 
-  <a href="https://www.instagram.com/luis_henrique9293/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luishenriquesantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/profile.php?id=100090757050297" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/LusHsantos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/luizpaulo.8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luizpaulo8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/profile.php?id=100055261993112" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
